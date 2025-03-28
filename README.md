@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimjev-webdev
 - 👀 I’m interested in creative design projects.
-- 🌱 I’m currently learning basic html and css.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on anything and everything!
 - 😄 Pronouns: she/her
 
